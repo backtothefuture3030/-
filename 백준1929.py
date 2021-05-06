@@ -22,4 +22,3 @@ for i in range(2,M+1):
 for i in primes:
     if i>=N:
         print(i)    
-print(a)

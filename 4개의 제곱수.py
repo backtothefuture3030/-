@@ -8,6 +8,7 @@ def root(num):
         a[1] = int(random.randint(0,int(math.sqrt(num))))
         a[2] = int(random.randint(0,int(math.sqrt(num))))
         a[3] = int(random.randint(0,int(math.sqrt(num))))
+        
     print(a)
 
 root(1572)
